@@ -7,7 +7,7 @@ HOST_URL_LLMTWINS = "https://beta-llmtwins.4impact.cc"
 HOST_URL_EID = "https://beta-eid.townway.com.tw";
 
 // Site hoster
-SITE_HOSTERS = ["forus999@gmail.com", "secondhome2023.1@gmail.com", "mickeypeng@tpwl.org"]
+SITE_HOSTERS = ["forus999@gmail.com", "secondhome2023.1@gmail.com", "mickeypeng@tpwl.org", "400@gmail.com"]
 
 // Site information
 SITE_TYPE = 0 // 0 or 1(公板)
@@ -16,6 +16,7 @@ COPYRIGHT = "Second Home"
 
 // Weight : SDGs, 人文地產景, 德智體群美
 WEIGHT = [1, 1, 1]
+WEIGHTS = ["SDGs", "CommunityDevelopment", "FiveWaysofLife"]
 
 // FEATURES
 LLM = true
