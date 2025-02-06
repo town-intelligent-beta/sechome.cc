@@ -1,6 +1,8 @@
 // Host
 HOST_URL_EID_DAEMON = "https://rc-eid-backend.4impact.cc";
 HOST_URL_TPLANET_DAEMON = "https://rc-tplanet-backend.4impact.cc";
+
+// LLMTwins
 HOST_URL_LLMTWINS = "https://phidata.4impact.cc"
 
 // EID
@@ -21,3 +23,5 @@ WEIGHTS = ["SDGs", "CommunityDevelopment", "FiveWaysofLife"]
 // FEATURES
 LLM = true
 SROI = true
+
+VERSION = "1.0.1"
